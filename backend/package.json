@@ -1,0 +1,17 @@
+{
+  "name": "furniture",
+  "version": "1.0.0",
+  "description": "this is ecommerce site for furniture",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "nodemon src/index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.9.4",
+    "nodemon": "^3.0.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.3.2"
+  }
+}
